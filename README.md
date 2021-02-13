@@ -1,4 +1,6 @@
 # Modern Warfare & Warzone Calling Cards
+_Last updated: 2021-02-12_
+_Total #: 1846 calling cards_
 
 This is a collection of calling cards from Call of Duty: Modern Warfare (2019) and Call of Duty: Warzone. 
 

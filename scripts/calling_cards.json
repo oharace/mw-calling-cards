@@ -1,5 +1,41 @@
 [
   {
+    "directory": "141",
+    "title": "141",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_546.webm"
+  },
+  {
+    "directory": "1911_master_damascus",
+    "title": "1911 Master: Damascus",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_pi_mike1911.webm"
+  },
+  {
+    "directory": "1911_master_gold",
+    "title": "1911 Master: Gold",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_pi_mike1911.webm"
+  },
+  {
+    "directory": "1911_master_obsidian",
+    "title": "1911 Master: Obsidian",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_pi_mike1911.webm"
+  },
+  {
+    "directory": "1911_master_platinum",
+    "title": "1911 Master: Platinum",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_pi_mike1911.webm"
+  },
+  {
+    "directory": "2020_champs",
+    "title": "2020 Champs",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1149.webm"
+  },
+  {
     "directory": "357_master_damascus",
     "title": ".357 Master: Damascus",
     "type": "webm",
@@ -46,42 +82,6 @@
     "title": ".50 GS Master: Platinum",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_pi_decho.webm"
-  },
-  {
-    "directory": "141",
-    "title": "141",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_546.webm"
-  },
-  {
-    "directory": "1911_master_damascus",
-    "title": "1911 Master: Damascus",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_pi_mike1911.webm"
-  },
-  {
-    "directory": "1911_master_gold",
-    "title": "1911 Master: Gold",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_pi_mike1911.webm"
-  },
-  {
-    "directory": "1911_master_obsidian",
-    "title": "1911 Master: Obsidian",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_pi_mike1911.webm"
-  },
-  {
-    "directory": "1911_master_platinum",
-    "title": "1911 Master: Platinum",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_pi_mike1911.webm"
-  },
-  {
-    "directory": "2020_champs",
-    "title": "2020 Champs",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1149.webm"
   },
   {
     "directory": "725_master_damascus",
@@ -142,144 +142,6 @@
     "title": "A Moment",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_340.webm"
-  },
-  {
-    "directory": "afk",
-    "title": "AFK",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1516.webm"
-  },
-  {
-    "directory": "ak47_master_damascus",
-    "title": "AK-47 Master: Damascus",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_ar_akilo47.webm"
-  },
-  {
-    "directory": "ak47_master_gold",
-    "title": "AK-47 Master: Gold",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_ar_akilo47.webm"
-  },
-  {
-    "directory": "ak47_master_obsidian",
-    "title": "AK-47 Master: Obsidian",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_ar_akilo47.webm"
-  },
-  {
-    "directory": "ak47_master_platinum",
-    "title": "AK-47 Master: Platinum",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_ar_akilo47.webm"
-  },
-  {
-    "directory": "an94_master_damascus",
-    "title": "AN-94 Master: Damascus",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_ar_anovember94.webm"
-  },
-  {
-    "directory": "an94_master_gold",
-    "title": "AN-94 Master: Gold",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_ar_anovember94.webm"
-  },
-  {
-    "directory": "an94_master_obsidian",
-    "title": "AN-94 Master: Obsidian",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_ar_anovember94.webm"
-  },
-  {
-    "directory": "an94_master_platinum",
-    "title": "AN-94 Master: Platinum",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_ar_anovember94.webm"
-  },
-  {
-    "directory": "as_val_master_damascus",
-    "title": "AS VAL Master: Damascus",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_ar_valpha.webm"
-  },
-  {
-    "directory": "as_val_master_gold",
-    "title": "AS VAL Master: Gold",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_ar_valpha.webm"
-  },
-  {
-    "directory": "as_val_master_obsidian",
-    "title": "AS VAL Master: Obsidian",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_ar_valpha.webm"
-  },
-  {
-    "directory": "as_val_master_platinum",
-    "title": "AS VAL Master: Platinum",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_ar_valpha.webm"
-  },
-  {
-    "directory": "atvi_shanghai",
-    "title": "ATVI Shanghai",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_275.webm"
-  },
-  {
-    "directory": "atvi_shanghai_2",
-    "title": "ATVI Shanghai",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_532.webm"
-  },
-  {
-    "directory": "aug_master_damascus",
-    "title": "AUG Master: Damascus",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_sm_augolf.webm"
-  },
-  {
-    "directory": "aug_master_gold",
-    "title": "AUG Master: Gold",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_sm_augolf.webm"
-  },
-  {
-    "directory": "aug_master_obsidian",
-    "title": "AUG Master: Obsidian",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_sm_augolf.webm"
-  },
-  {
-    "directory": "aug_master_platinum",
-    "title": "AUG Master: Platinum",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_sm_augolf.webm"
-  },
-  {
-    "directory": "ax50_master_damascus",
-    "title": "AX-50 Master: Damascus",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_sn_alpha50.webm"
-  },
-  {
-    "directory": "ax50_master_gold",
-    "title": "AX-50 Master: Gold",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_sn_alpha50.webm"
-  },
-  {
-    "directory": "ax50_master_obsidian",
-    "title": "AX-50 Master: Obsidian",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_sn_alpha50.webm"
-  },
-  {
-    "directory": "ax50_master_platinum",
-    "title": "AX-50 Master: Platinum",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_sn_alpha50.webm"
   },
   {
     "directory": "abandoned_hangar",
@@ -384,6 +246,12 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_653.webm"
   },
   {
+    "directory": "afk",
+    "title": "AFK",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1516.webm"
+  },
+  {
     "directory": "african_front",
     "title": "African Front",
     "type": "webm",
@@ -424,6 +292,30 @@
     "title": "Airborne Man",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_071.webm"
+  },
+  {
+    "directory": "ak47_master_damascus",
+    "title": "AK-47 Master: Damascus",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_ar_akilo47.webm"
+  },
+  {
+    "directory": "ak47_master_gold",
+    "title": "AK-47 Master: Gold",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_ar_akilo47.webm"
+  },
+  {
+    "directory": "ak47_master_obsidian",
+    "title": "AK-47 Master: Obsidian",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_ar_akilo47.webm"
+  },
+  {
+    "directory": "ak47_master_platinum",
+    "title": "AK-47 Master: Platinum",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_ar_akilo47.webm"
   },
   {
     "directory": "akimbo",
@@ -570,16 +462,16 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1416.webm"
   },
   {
-    "directory": "always_forward",
-    "title": "Always Forward",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_438.webm"
-  },
-  {
     "directory": "always_a_party",
     "title": "Always a Party",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_425.webm"
+  },
+  {
+    "directory": "always_forward",
+    "title": "Always Forward",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_438.webm"
   },
   {
     "directory": "amateur_botanist",
@@ -610,6 +502,30 @@
     "title": "Ambassador Ace IV",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1504.webm"
+  },
+  {
+    "directory": "an94_master_damascus",
+    "title": "AN-94 Master: Damascus",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_ar_anovember94.webm"
+  },
+  {
+    "directory": "an94_master_gold",
+    "title": "AN-94 Master: Gold",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_ar_anovember94.webm"
+  },
+  {
+    "directory": "an94_master_obsidian",
+    "title": "AN-94 Master: Obsidian",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_ar_anovember94.webm"
+  },
+  {
+    "directory": "an94_master_platinum",
+    "title": "AN-94 Master: Platinum",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_ar_anovember94.webm"
   },
   {
     "directory": "anansi",
@@ -738,6 +654,30 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1524.webm"
   },
   {
+    "directory": "as_val_master_damascus",
+    "title": "AS VAL Master: Damascus",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_ar_valpha.webm"
+  },
+  {
+    "directory": "as_val_master_gold",
+    "title": "AS VAL Master: Gold",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_ar_valpha.webm"
+  },
+  {
+    "directory": "as_val_master_obsidian",
+    "title": "AS VAL Master: Obsidian",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_ar_valpha.webm"
+  },
+  {
+    "directory": "as_val_master_platinum",
+    "title": "AS VAL Master: Platinum",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_ar_valpha.webm"
+  },
+  {
     "directory": "ascension",
     "title": "Ascension",
     "type": "webm",
@@ -774,6 +714,24 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_816.webm"
   },
   {
+    "directory": "atlanta_faze_2021",
+    "title": "Atlanta FaZe 2021",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9771.png?8574153"
+  },
+  {
+    "directory": "atlanta_faze_2021_2",
+    "title": "Atlanta FaZe 2021",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9771.png?8574153"
+  },
+  {
+    "directory": "atlanta_faze_2021_3",
+    "title": "Atlanta FaZe 2021",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9771.png?8574153"
+  },
+  {
     "directory": "atlanta_faze_cdl_championship",
     "title": "Atlanta Faze CDL Championship",
     "type": "webm",
@@ -790,6 +748,42 @@
     "title": "Atlanta Faze Supporter",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1135.webm"
+  },
+  {
+    "directory": "atvi_shanghai",
+    "title": "ATVI Shanghai",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_275.webm"
+  },
+  {
+    "directory": "atvi_shanghai_2",
+    "title": "ATVI Shanghai",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_532.webm"
+  },
+  {
+    "directory": "aug_master_damascus",
+    "title": "AUG Master: Damascus",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_sm_augolf.webm"
+  },
+  {
+    "directory": "aug_master_gold",
+    "title": "AUG Master: Gold",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_sm_augolf.webm"
+  },
+  {
+    "directory": "aug_master_obsidian",
+    "title": "AUG Master: Obsidian",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_sm_augolf.webm"
+  },
+  {
+    "directory": "aug_master_platinum",
+    "title": "AUG Master: Platinum",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_sm_augolf.webm"
   },
   {
     "directory": "aurora",
@@ -822,6 +816,30 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9599.webm"
   },
   {
+    "directory": "ax50_master_damascus",
+    "title": "AX-50 Master: Damascus",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_sn_alpha50.webm"
+  },
+  {
+    "directory": "ax50_master_gold",
+    "title": "AX-50 Master: Gold",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_sn_alpha50.webm"
+  },
+  {
+    "directory": "ax50_master_obsidian",
+    "title": "AX-50 Master: Obsidian",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_sn_alpha50.webm"
+  },
+  {
+    "directory": "ax50_master_platinum",
+    "title": "AX-50 Master: Platinum",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_sn_alpha50.webm"
+  },
+  {
     "directory": "axe_to_grind",
     "title": "Axe to Grind",
     "type": "webm",
@@ -838,18 +856,6 @@
     "title": "Azur",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_739.webm"
-  },
-  {
-    "directory": "bamf",
-    "title": "BAMF",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9624.webm"
-  },
-  {
-    "directory": "brb",
-    "title": "BRB",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9371.webm"
   },
   {
     "directory": "back_at_you",
@@ -904,6 +910,12 @@
     "title": "Ballistic",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_441.webm"
+  },
+  {
+    "directory": "bamf",
+    "title": "BAMF",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9624.webm"
   },
   {
     "directory": "bandita",
@@ -978,16 +990,16 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1279.webm"
   },
   {
-    "directory": "behind_you",
-    "title": "Behind You",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_966.webm"
-  },
-  {
     "directory": "behind_the_lines",
     "title": "Behind the Lines",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_112.webm"
+  },
+  {
+    "directory": "behind_you",
+    "title": "Behind You",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_966.webm"
   },
   {
     "directory": "belgium",
@@ -1056,12 +1068,6 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_630.webm"
   },
   {
-    "directory": "bighearted",
-    "title": "Big-hearted",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9602_v6.webm"
-  },
-  {
     "directory": "bigger_fish",
     "title": "Bigger Fish",
     "type": "webm",
@@ -1072,6 +1078,12 @@
     "title": "Biggest Bang",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9258.webm"
+  },
+  {
+    "directory": "bighearted",
+    "title": "Big-hearted",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9602_v6.webm"
   },
   {
     "directory": "bird_incoming",
@@ -1278,6 +1290,12 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_294.webm"
   },
   {
+    "directory": "brb",
+    "title": "BRB",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9371.webm"
+  },
+  {
     "directory": "breach",
     "title": "Breach",
     "type": "webm",
@@ -1440,60 +1458,6 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9602.webm"
   },
   {
-    "directory": "cr56_amax_master_damascus",
-    "title": "CR-56 AMAX Master: Damascus",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_ar_galima.webm"
-  },
-  {
-    "directory": "cr56_amax_master_gold",
-    "title": "CR-56 AMAX Master: Gold",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_ar_galima.webm"
-  },
-  {
-    "directory": "cr56_amax_master_obsidian",
-    "title": "CR-56 AMAX Master: Obsidian",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_ar_galima.webm"
-  },
-  {
-    "directory": "cr56_amax_master_platinum",
-    "title": "CR-56 AMAX Master: Platinum",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_ar_galima.webm"
-  },
-  {
-    "directory": "cx9_master_damascus",
-    "title": "CX-9 Master: Damascus",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_sm_secho.webm"
-  },
-  {
-    "directory": "cx9_master_gold",
-    "title": "CX-9 Master: Gold",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_sm_secho.webm"
-  },
-  {
-    "directory": "cx9_master_obsidian",
-    "title": "CX-9 Master: Obsidian",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_sm_secho.webm"
-  },
-  {
-    "directory": "cx9_master_platinum",
-    "title": "CX-9 Master: Platinum",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_sm_secho.webm"
-  },
-  {
-    "directory": "cya",
-    "title": "CYA",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_203.webm"
-  },
-  {
     "directory": "cadaverous",
     "title": "Cadaverous",
     "type": "webm",
@@ -1506,12 +1470,6 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_949.webm"
   },
   {
-    "directory": "cant_catch_this",
-    "title": "Can't Catch This",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1007.webm"
-  },
-  {
     "directory": "canada",
     "title": "Canada",
     "type": "webm",
@@ -1522,6 +1480,12 @@
     "title": "Candygram for Mongo",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1174.webm"
+  },
+  {
+    "directory": "cant_catch_this",
+    "title": "Can't Catch This",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1007.webm"
   },
   {
     "directory": "capsule_view",
@@ -1584,16 +1548,16 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_690.webm"
   },
   {
-    "directory": "caught_slipping",
-    "title": "Caught Slipping",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_672.webm"
-  },
-  {
     "directory": "caught_in_a_web",
     "title": "Caught in a Web",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_185.webm"
+  },
+  {
+    "directory": "caught_slipping",
+    "title": "Caught Slipping",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_672.webm"
   },
   {
     "directory": "cawcaw",
@@ -1866,6 +1830,12 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_440.webm"
   },
   {
+    "directory": "close_and_personal",
+    "title": "Close and Personal",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_886.webm"
+  },
+  {
     "directory": "close_combat",
     "title": "Close Combat",
     "type": "webm",
@@ -1876,12 +1846,6 @@
     "title": "Close Encounters",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1301.webm"
-  },
-  {
-    "directory": "close_and_personal",
-    "title": "Close and Personal",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_886.webm"
   },
   {
     "directory": "close_to_home",
@@ -2028,16 +1992,16 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_384.webm"
   },
   {
-    "directory": "cool_guys",
-    "title": "Cool Guys",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_362.webm"
-  },
-  {
     "directory": "cool_as_you_like",
     "title": "Cool as You Like",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1474.webm"
+  },
+  {
+    "directory": "cool_guys",
+    "title": "Cool Guys",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_362.webm"
   },
   {
     "directory": "copy_that",
@@ -2104,6 +2068,36 @@
     "title": "Covert Operations",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_916.webm"
+  },
+  {
+    "directory": "cr56_amax_master_damascus",
+    "title": "CR-56 AMAX Master: Damascus",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_ar_galima.webm"
+  },
+  {
+    "directory": "cr56_amax_master_gold",
+    "title": "CR-56 AMAX Master: Gold",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_ar_galima.webm"
+  },
+  {
+    "directory": "cr56_amax_master_obsidian",
+    "title": "CR-56 AMAX Master: Obsidian",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_ar_galima.webm"
+  },
+  {
+    "directory": "cr56_amax_master_platinum",
+    "title": "CR-56 AMAX Master: Platinum",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_ar_galima.webm"
+  },
+  {
+    "directory": "cracked",
+    "title": "Cracked",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9789.png?8574153"
   },
   {
     "directory": "crave_a_taste",
@@ -2214,6 +2208,36 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1553.webm"
   },
   {
+    "directory": "cx9_master_damascus",
+    "title": "CX-9 Master: Damascus",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_sm_secho.webm"
+  },
+  {
+    "directory": "cx9_master_gold",
+    "title": "CX-9 Master: Gold",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_sm_secho.webm"
+  },
+  {
+    "directory": "cx9_master_obsidian",
+    "title": "CX-9 Master: Obsidian",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_sm_secho.webm"
+  },
+  {
+    "directory": "cx9_master_platinum",
+    "title": "CX-9 Master: Platinum",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_sm_secho.webm"
+  },
+  {
+    "directory": "cya",
+    "title": "CYA",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_203.webm"
+  },
+  {
     "directory": "cyber_battleground",
     "title": "Cyber Battleground",
     "type": "webm",
@@ -2232,18 +2256,6 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_931.png"
   },
   {
-    "directory": "dday",
-    "title": "D-Day",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_323.webm"
-  },
-  {
-    "directory": "dday_2",
-    "title": "D-Day",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_742.webm"
-  },
-  {
     "directory": "daily_affirmation",
     "title": "Daily Affirmation",
     "type": "webm",
@@ -2254,6 +2266,24 @@
     "title": "Dallas Empire",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_818.webm"
+  },
+  {
+    "directory": "dallas_empire_2021",
+    "title": "Dallas Empire 2021",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9772.png?8574153"
+  },
+  {
+    "directory": "dallas_empire_2021_2",
+    "title": "Dallas Empire 2021",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9772.png?8574153"
+  },
+  {
+    "directory": "dallas_empire_2021_3",
+    "title": "Dallas Empire 2021",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9772.png?8574153"
   },
   {
     "directory": "dallas_empire_cdl_championship",
@@ -2364,6 +2394,18 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_432.webm"
   },
   {
+    "directory": "dday",
+    "title": "D-Day",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_323.webm"
+  },
+  {
+    "directory": "dday_2",
+    "title": "D-Day",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_742.webm"
+  },
+  {
     "directory": "dead_circuit",
     "title": "Dead Circuit",
     "type": "webm",
@@ -2400,10 +2442,22 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_723.webm"
   },
   {
+    "directory": "death_comes_swiftly",
+    "title": "Death Comes Swiftly",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1559.webm?8574153"
+  },
+  {
     "directory": "death_dealer",
     "title": "Death Dealer",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9292.webm"
+  },
+  {
+    "directory": "death_from_above",
+    "title": "Death from Above",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_502.webm"
   },
   {
     "directory": "death_proof",
@@ -2428,12 +2482,6 @@
     "title": "Death Support",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_040.webm"
-  },
-  {
-    "directory": "death_from_above",
-    "title": "Death from Above",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_502.webm"
   },
   {
     "directory": "deaths_wings",
@@ -2694,6 +2742,18 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_584.webm"
   },
   {
+    "directory": "down_the_hatch",
+    "title": "Down the Hatch",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_996.webm"
+  },
+  {
+    "directory": "down_the_sights",
+    "title": "Down the Sights",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_959.webm"
+  },
+  {
     "directory": "down_to_the_wire",
     "title": "Down To The Wire",
     "type": "webm",
@@ -2706,16 +2766,10 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_586.webm"
   },
   {
-    "directory": "down_the_hatch",
-    "title": "Down the Hatch",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_996.webm"
-  },
-  {
-    "directory": "down_the_sights",
-    "title": "Down the Sights",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_959.webm"
+    "directory": "dragon_dance",
+    "title": "Dragon Dance",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9695.png?8574153"
   },
   {
     "directory": "dragons_breath",
@@ -2862,6 +2916,24 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_724.webm"
   },
   {
+    "directory": "early_to_rise",
+    "title": "Early to Rise",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1054.webm"
+  },
+  {
+    "directory": "easy_targets",
+    "title": "Easy Targets",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_881.webm"
+  },
+  {
+    "directory": "eating_time",
+    "title": "Eating Time",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_187.webm"
+  },
+  {
     "directory": "ebr14_master_damascus",
     "title": "EBR-14 Master: Damascus",
     "type": "webm",
@@ -2884,30 +2956,6 @@
     "title": "EBR-14 Master: Platinum",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_sn_mike14.webm"
-  },
-  {
-    "directory": "emp_drone",
-    "title": "EMP Drone",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_479.webm"
-  },
-  {
-    "directory": "early_to_rise",
-    "title": "Early to Rise",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1054.webm"
-  },
-  {
-    "directory": "easy_targets",
-    "title": "Easy Targets",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_881.webm"
-  },
-  {
-    "directory": "eating_time",
-    "title": "Eating Time",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_187.webm"
   },
   {
     "directory": "ecuador",
@@ -2988,6 +3036,12 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_488.webm"
   },
   {
+    "directory": "emp_drone",
+    "title": "EMP Drone",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_479.webm"
+  },
+  {
     "directory": "empty_remains",
     "title": "Empty Remains",
     "type": "webm",
@@ -3036,16 +3090,16 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_965.webm"
   },
   {
-    "directory": "enemy_spotted",
-    "title": "Enemy Spotted",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_883.webm"
-  },
-  {
     "directory": "enemy_of_my_enemy",
     "title": "Enemy of My Enemy",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1475.webm"
+  },
+  {
+    "directory": "enemy_spotted",
+    "title": "Enemy Spotted",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_883.webm"
   },
   {
     "directory": "england",
@@ -3138,6 +3192,12 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1438.webm"
   },
   {
+    "directory": "eye_of_the_storm",
+    "title": "Eye of the Storm",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_602.webm"
+  },
+  {
     "directory": "eye_opener",
     "title": "Eye Opener",
     "type": "webm",
@@ -3150,16 +3210,28 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_456.webm"
   },
   {
-    "directory": "eye_of_the_storm",
-    "title": "Eye of the Storm",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_602.webm"
-  },
-  {
     "directory": "eyes_on_target",
     "title": "Eyes On Target",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1233.webm"
+  },
+  {
+    "directory": "face_b_gone",
+    "title": "Face B Gone",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_108.webm"
+  },
+  {
+    "directory": "fade_to_blue",
+    "title": "Fade to Blue",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9591.webm"
+  },
+  {
+    "directory": "faded_memories",
+    "title": "Faded Memories",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_222.webm"
   },
   {
     "directory": "fal_master_damascus",
@@ -3184,78 +3256,6 @@
     "title": "FAL Master: Platinum",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_ar_falima.webm"
-  },
-  {
-    "directory": "fn_scar_17_master_damascus",
-    "title": "FN Scar 17 Master: Damascus",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_ar_scharlie.webm"
-  },
-  {
-    "directory": "fn_scar_17_master_gold",
-    "title": "FN Scar 17 Master: Gold",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_ar_scharlie.webm"
-  },
-  {
-    "directory": "fn_scar_17_master_obsidian",
-    "title": "FN Scar 17 Master: Obsidian",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_ar_scharlie.webm"
-  },
-  {
-    "directory": "fn_scar_17_master_platinum",
-    "title": "FN Scar 17 Master: Platinum",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_ar_scharlie.webm"
-  },
-  {
-    "directory": "fob_friends",
-    "title": "FOB Friends",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9306.webm"
-  },
-  {
-    "directory": "fr_556_master_damascus",
-    "title": "FR 5.56 Master: Damascus",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_ar_falpha.webm"
-  },
-  {
-    "directory": "fr_556_master_gold",
-    "title": "FR 5.56 Master: Gold",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_ar_falpha.webm"
-  },
-  {
-    "directory": "fr_556_master_obsidian",
-    "title": "FR 5.56 Master: Obsidian",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_ar_falpha.webm"
-  },
-  {
-    "directory": "fr_556_master_platinum",
-    "title": "FR 5.56 Master: Platinum",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_ar_falpha.webm"
-  },
-  {
-    "directory": "face_b_gone",
-    "title": "Face B Gone",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_108.webm"
-  },
-  {
-    "directory": "fade_to_blue",
-    "title": "Fade to Blue",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9591.webm"
-  },
-  {
-    "directory": "faded_memories",
-    "title": "Faded Memories",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_222.webm"
   },
   {
     "directory": "fall",
@@ -3360,30 +3360,6 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1158.webm"
   },
   {
-    "directory": "finn_lmg_master_damascus",
-    "title": "FiNN LMG Master: Damascus",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_lm_sierrax.webm"
-  },
-  {
-    "directory": "finn_lmg_master_gold",
-    "title": "FiNN LMG Master: Gold",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_lm_sierrax.webm"
-  },
-  {
-    "directory": "finn_lmg_master_obsidian",
-    "title": "FiNN LMG Master: Obsidian",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_lm_sierrax.webm"
-  },
-  {
-    "directory": "finn_lmg_master_platinum",
-    "title": "FiNN LMG Master: Platinum",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_lm_sierrax.webm"
-  },
-  {
     "directory": "field_clearance",
     "title": "Field Clearance",
     "type": "webm",
@@ -3456,6 +3432,36 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_933.png"
   },
   {
+    "directory": "finn_lmg_master_damascus",
+    "title": "FiNN LMG Master: Damascus",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_lm_sierrax.webm"
+  },
+  {
+    "directory": "finn_lmg_master_gold",
+    "title": "FiNN LMG Master: Gold",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_lm_sierrax.webm"
+  },
+  {
+    "directory": "finn_lmg_master_obsidian",
+    "title": "FiNN LMG Master: Obsidian",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_lm_sierrax.webm"
+  },
+  {
+    "directory": "finn_lmg_master_platinum",
+    "title": "FiNN LMG Master: Platinum",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_lm_sierrax.webm"
+  },
+  {
+    "directory": "fire_at_will",
+    "title": "Fire at Will",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9278.webm"
+  },
+  {
     "directory": "fire_blast",
     "title": "Fire Blast",
     "type": "webm",
@@ -3484,12 +3490,6 @@
     "title": "Fire Warriors",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_053.webm"
-  },
-  {
-    "directory": "fire_at_will",
-    "title": "Fire at Will",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9278.webm"
   },
   {
     "directory": "firefight",
@@ -3552,6 +3552,24 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_819.webm"
   },
   {
+    "directory": "florida_mutineers_2021",
+    "title": "Florida Mutineers 2021",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9773.png?8574153"
+  },
+  {
+    "directory": "florida_mutineers_2021_2",
+    "title": "Florida Mutineers 2021",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9773.png?8574153"
+  },
+  {
+    "directory": "florida_mutineers_2021_3",
+    "title": "Florida Mutineers 2021",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9773.png?8574153"
+  },
+  {
     "directory": "florida_mutineers_cdl_championship",
     "title": "Florida Mutineers CDL Championship",
     "type": "webm",
@@ -3586,6 +3604,36 @@
     "title": "Flying Low",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_465.webm"
+  },
+  {
+    "directory": "fn_scar_17_master_damascus",
+    "title": "FN Scar 17 Master: Damascus",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_ar_scharlie.webm"
+  },
+  {
+    "directory": "fn_scar_17_master_gold",
+    "title": "FN Scar 17 Master: Gold",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_ar_scharlie.webm"
+  },
+  {
+    "directory": "fn_scar_17_master_obsidian",
+    "title": "FN Scar 17 Master: Obsidian",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_ar_scharlie.webm"
+  },
+  {
+    "directory": "fn_scar_17_master_platinum",
+    "title": "FN Scar 17 Master: Platinum",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_ar_scharlie.webm"
+  },
+  {
+    "directory": "fob_friends",
+    "title": "FOB Friends",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9306.webm"
   },
   {
     "directory": "focused",
@@ -3624,12 +3672,6 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1030.webm"
   },
   {
-    "directory": "for_urzikstan",
-    "title": "For Urzikstan!",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1473.webm"
-  },
-  {
     "directory": "for_the_kill",
     "title": "For the Kill",
     "type": "webm",
@@ -3640,6 +3682,12 @@
     "title": "For the Ladies",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_231.webm"
+  },
+  {
+    "directory": "for_urzikstan",
+    "title": "For Urzikstan!",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1473.webm"
   },
   {
     "directory": "foreign_asset",
@@ -3688,6 +3736,30 @@
     "title": "Four Piece Dinner",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9624_v1.webm"
+  },
+  {
+    "directory": "fr_556_master_damascus",
+    "title": "FR 5.56 Master: Damascus",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_ar_falpha.webm"
+  },
+  {
+    "directory": "fr_556_master_gold",
+    "title": "FR 5.56 Master: Gold",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_ar_falpha.webm"
+  },
+  {
+    "directory": "fr_556_master_obsidian",
+    "title": "FR 5.56 Master: Obsidian",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_ar_falpha.webm"
+  },
+  {
+    "directory": "fr_556_master_platinum",
+    "title": "FR 5.56 Master: Platinum",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_ar_falpha.webm"
   },
   {
     "directory": "frag_out",
@@ -3786,6 +3858,12 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1261.webm"
   },
   {
+    "directory": "full_tilt",
+    "title": "Full Tilt",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9783.png?8574153"
+  },
+  {
     "directory": "fun_in_the_sun",
     "title": "Fun in the Sun",
     "type": "webm",
@@ -3852,16 +3930,16 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_288.webm"
   },
   {
-    "directory": "get_over_here",
-    "title": "Get Over Here",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1114.webm"
-  },
-  {
     "directory": "get_a_move_on",
     "title": "Get a Move On",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1169.webm"
+  },
+  {
+    "directory": "get_over_here",
+    "title": "Get Over Here",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1114.webm"
   },
   {
     "directory": "gettin_vertical",
@@ -3870,16 +3948,16 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_427.webm"
   },
   {
-    "directory": "getting_close",
-    "title": "Getting Close",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_802.webm"
-  },
-  {
     "directory": "getting_away",
     "title": "Getting away",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_513.webm"
+  },
+  {
+    "directory": "getting_close",
+    "title": "Getting Close",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_802.webm"
   },
   {
     "directory": "ghillie_warfare",
@@ -3942,16 +4020,16 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_620.webm"
   },
   {
-    "directory": "go_hot",
-    "title": "Go Hot",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_947.webm"
-  },
-  {
     "directory": "go_go_go",
     "title": "Go! Go! Go!",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_951.webm"
+  },
+  {
+    "directory": "go_hot",
+    "title": "Go Hot",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_947.webm"
   },
   {
     "directory": "going_ham_master",
@@ -3990,16 +4068,16 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_652.webm"
   },
   {
-    "directory": "got_eyes_on",
-    "title": "Got Eyes On",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_952.webm"
-  },
-  {
     "directory": "got_a_visual",
     "title": "Got a Visual",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_458.webm"
+  },
+  {
+    "directory": "got_eyes_on",
+    "title": "Got Eyes On",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_952.webm"
   },
   {
     "directory": "got_your_back",
@@ -4170,42 +4248,6 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_480.webm"
   },
   {
-    "directory": "hdr_master_damascus",
-    "title": "HDR Master: Damascus",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_sn_hdromeo.webm"
-  },
-  {
-    "directory": "hdr_master_gold",
-    "title": "HDR Master: Gold",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_sn_hdromeo.webm"
-  },
-  {
-    "directory": "hdr_master_obsidian",
-    "title": "HDR Master: Obsidian",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_sn_hdromeo.webm"
-  },
-  {
-    "directory": "hdr_master_platinum",
-    "title": "HDR Master: Platinum",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_sn_hdromeo.webm"
-  },
-  {
-    "directory": "honk_squadron",
-    "title": "HONK Squadron",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9198.webm"
-  },
-  {
-    "directory": "humint",
-    "title": "HUMINT",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9600.webm"
-  },
-  {
     "directory": "hack_this",
     "title": "Hack This!",
     "type": "webm",
@@ -4332,6 +4374,36 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9598.webm"
   },
   {
+    "directory": "hdr_master_damascus",
+    "title": "HDR Master: Damascus",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_sn_hdromeo.webm"
+  },
+  {
+    "directory": "hdr_master_gold",
+    "title": "HDR Master: Gold",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_sn_hdromeo.webm"
+  },
+  {
+    "directory": "hdr_master_obsidian",
+    "title": "HDR Master: Obsidian",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_sn_hdromeo.webm"
+  },
+  {
+    "directory": "hdr_master_platinum",
+    "title": "HDR Master: Platinum",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_sn_hdromeo.webm"
+  },
+  {
+    "directory": "head2head",
+    "title": "Head2Head",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_038.webm"
+  },
+  {
     "directory": "head_crusher",
     "title": "Head Crusher",
     "type": "webm",
@@ -4342,12 +4414,6 @@
     "title": "Head Scratcher",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1451.webm"
-  },
-  {
-    "directory": "head2head",
-    "title": "Head2Head",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_038.webm"
   },
   {
     "directory": "headhunter",
@@ -4446,28 +4512,28 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_180.webm"
   },
   {
-    "directory": "here_to_help",
-    "title": "Here to Help",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_548.webm"
-  },
-  {
     "directory": "here_there_and_everywhere",
     "title": "Here, There, and Everywhere",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1447.webm"
   },
   {
-    "directory": "heros_welcome",
-    "title": "Hero's Welcome",
+    "directory": "here_to_help",
+    "title": "Here to Help",
     "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_657.webm"
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_548.webm"
   },
   {
     "directory": "heroic_sacrifice",
     "title": "Heroic Sacrifice",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9370.webm"
+  },
+  {
+    "directory": "heros_welcome",
+    "title": "Hero's Welcome",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_657.webm"
   },
   {
     "directory": "hey_whats_that_sound",
@@ -4626,6 +4692,12 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_764.webm"
   },
   {
+    "directory": "honk_squadron",
+    "title": "HONK Squadron",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9198.webm"
+  },
+  {
     "directory": "honorable_sacrifice",
     "title": "Honorable Sacrifice",
     "type": "webm",
@@ -4674,6 +4746,12 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9626_v4.webm"
   },
   {
+    "directory": "humint",
+    "title": "HUMINT",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9600.webm"
+  },
+  {
     "directory": "hungary",
     "title": "Hungary",
     "type": "webm",
@@ -4698,8 +4776,8 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1099.webm"
   },
   {
-    "directory": "hypersonic_",
-    "title": "Hypersonic ",
+    "directory": "hypersonic",
+    "title": "Hypersonic",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9167.webm"
   },
@@ -4720,54 +4798,6 @@
     "title": "I Smell a Rat",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1125.webm"
-  },
-  {
-    "directory": "im_avocontrol",
-    "title": "I'm Avocontrol!",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1012.webm"
-  },
-  {
-    "directory": "im_frying",
-    "title": "I'm Frying",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1148.webm"
-  },
-  {
-    "directory": "im_up_here",
-    "title": "I'm Up Here",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_101.webm"
-  },
-  {
-    "directory": "imint",
-    "title": "IMINT",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9600_v1.webm"
-  },
-  {
-    "directory": "iso_master_damascus",
-    "title": "ISO Master: Damascus",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_sm_charlie9.webm"
-  },
-  {
-    "directory": "iso_master_gold",
-    "title": "ISO Master: Gold",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_sm_charlie9.webm"
-  },
-  {
-    "directory": "iso_master_obsidian",
-    "title": "ISO Master: Obsidian",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_sm_charlie9.webm"
-  },
-  {
-    "directory": "iso_master_platinum",
-    "title": "ISO Master: Platinum",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_sm_charlie9.webm"
   },
   {
     "directory": "ice_breaker",
@@ -4792,6 +4822,36 @@
     "title": "Ice Myths",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_611.webm"
+  },
+  {
+    "directory": "iced_out",
+    "title": "Iced Out",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9788.png?8574153"
+  },
+  {
+    "directory": "im_avocontrol",
+    "title": "I'm Avocontrol!",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1012.webm"
+  },
+  {
+    "directory": "im_frying",
+    "title": "I'm Frying",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1148.webm"
+  },
+  {
+    "directory": "im_up_here",
+    "title": "I'm Up Here",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_101.webm"
+  },
+  {
+    "directory": "imint",
+    "title": "IMINT",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9600_v1.webm"
   },
   {
     "directory": "impending_boom",
@@ -4836,12 +4896,6 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9355_sy.png"
   },
   {
-    "directory": "in_the_thick_of_it",
-    "title": "In The Thick Of It",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_872.webm"
-  },
-  {
     "directory": "in_the_circle",
     "title": "In the Circle",
     "type": "webm",
@@ -4872,16 +4926,16 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_631.png"
   },
   {
+    "directory": "in_the_thick_of_it",
+    "title": "In The Thick Of It",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_872.webm"
+  },
+  {
     "directory": "in_the_weeds",
     "title": "In the Weeds",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_018.webm"
-  },
-  {
-    "directory": "inflight_entertainment",
-    "title": "In-Flight Entertainment",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_569.webm"
   },
   {
     "directory": "india",
@@ -4918,6 +4972,12 @@
     "title": "Infinity Ward",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_530.webm"
+  },
+  {
+    "directory": "inflight_entertainment",
+    "title": "In-Flight Entertainment",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_569.webm"
   },
   {
     "directory": "influencer",
@@ -5022,10 +5082,40 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_014.webm"
   },
   {
+    "directory": "iso_master_damascus",
+    "title": "ISO Master: Damascus",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_sm_charlie9.webm"
+  },
+  {
+    "directory": "iso_master_gold",
+    "title": "ISO Master: Gold",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_sm_charlie9.webm"
+  },
+  {
+    "directory": "iso_master_obsidian",
+    "title": "ISO Master: Obsidian",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_sm_charlie9.webm"
+  },
+  {
+    "directory": "iso_master_platinum",
+    "title": "ISO Master: Platinum",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_sm_charlie9.webm"
+  },
+  {
     "directory": "it_looks_angry",
     "title": "It Looks Angry",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_896.webm"
+  },
+  {
+    "directory": "italy",
+    "title": "Italy",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_285.webm"
   },
   {
     "directory": "its_alive",
@@ -5058,10 +5148,10 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9612_sy.png"
   },
   {
-    "directory": "italy",
-    "title": "Italy",
+    "directory": "jackals_graffiti",
+    "title": "Jackals Graffiti",
     "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_285.webm"
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_760.webm"
   },
   {
     "directory": "jak12_master_damascus",
@@ -5088,36 +5178,6 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_sh_aalpha12.webm"
   },
   {
-    "directory": "jokr_master_damascus",
-    "title": "JOKR Master: Damascus",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_la_juliet.webm"
-  },
-  {
-    "directory": "jokr_master_gold",
-    "title": "JOKR Master: Gold",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_la_juliet.webm"
-  },
-  {
-    "directory": "jokr_master_obsidian",
-    "title": "JOKR Master: Obsidian",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_la_juliet.webm"
-  },
-  {
-    "directory": "jokr_master_platinum",
-    "title": "JOKR Master: Platinum",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_la_juliet.webm"
-  },
-  {
-    "directory": "jackals_graffiti",
-    "title": "Jackals Graffiti",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_760.webm"
-  },
-  {
     "directory": "japan",
     "title": "Japan",
     "type": "webm",
@@ -5140,6 +5200,30 @@
     "title": "Joke's On You",
     "type": "png",
     "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9291.png"
+  },
+  {
+    "directory": "jokr_master_damascus",
+    "title": "JOKR Master: Damascus",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_la_juliet.webm"
+  },
+  {
+    "directory": "jokr_master_gold",
+    "title": "JOKR Master: Gold",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_la_juliet.webm"
+  },
+  {
+    "directory": "jokr_master_obsidian",
+    "title": "JOKR Master: Obsidian",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_la_juliet.webm"
+  },
+  {
+    "directory": "jokr_master_platinum",
+    "title": "JOKR Master: Platinum",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_la_juliet.webm"
   },
   {
     "directory": "juiced_up",
@@ -5346,16 +5430,40 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1268.webm"
   },
   {
-    "directory": "lmg_diamond",
-    "title": "LMG Diamond",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9481.webm"
+    "directory": "la_guerrillas_2021",
+    "title": "LA Guerrillas 2021",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9774.png?8574153"
   },
   {
-    "directory": "lmg_diamond_2",
-    "title": "LMG Diamond",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9482.webm"
+    "directory": "la_guerrillas_2021_2",
+    "title": "LA Guerrillas 2021",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9774.png?8574153"
+  },
+  {
+    "directory": "la_guerrillas_2021_3",
+    "title": "LA Guerrillas 2021",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9774.png?8574153"
+  },
+  {
+    "directory": "la_thieves_2021",
+    "title": "LA Thieves 2021",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9776.png?8574153"
+  },
+  {
+    "directory": "la_thieves_2021_2",
+    "title": "LA Thieves 2021",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9776.png?8574153"
+  },
+  {
+    "directory": "la_thieves_2021_3",
+    "title": "LA Thieves 2021",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9776.png?8574153"
   },
   {
     "directory": "lace_your_boots",
@@ -5460,6 +5568,12 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1070.webm"
   },
   {
+    "directory": "light_breaches",
+    "title": "Light Breaches",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_691.webm"
+  },
+  {
     "directory": "light_em_up",
     "title": "Light 'Em Up",
     "type": "webm",
@@ -5470,12 +5584,6 @@
     "title": "Light 'Em Up",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_968.webm"
-  },
-  {
-    "directory": "light_breaches",
-    "title": "Light Breaches",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_691.webm"
   },
   {
     "directory": "light_runner",
@@ -5532,6 +5640,18 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1062.webm"
   },
   {
+    "directory": "lmg_diamond",
+    "title": "LMG Diamond",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9481.webm"
+  },
+  {
+    "directory": "lmg_diamond_2",
+    "title": "LMG Diamond",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9482.webm"
+  },
+  {
     "directory": "loading",
     "title": "Loading...",
     "type": "webm",
@@ -5548,6 +5668,24 @@
     "title": "London Royal Ravens",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_822.webm"
+  },
+  {
+    "directory": "london_royal_ravens_2021",
+    "title": "London Royal Ravens 2021",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9775.png?8574153"
+  },
+  {
+    "directory": "london_royal_ravens_2021_2",
+    "title": "London Royal Ravens 2021",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9775.png?8574153"
+  },
+  {
+    "directory": "london_royal_ravens_2021_3",
+    "title": "London Royal Ravens 2021",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9775.png?8574153"
   },
   {
     "directory": "london_royal_ravens_cdl_championship",
@@ -5748,102 +5886,6 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_lm_kilo121.webm"
   },
   {
-    "directory": "mg34_master_damascus",
-    "title": "MG34 Master: Damascus",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_lm_mgolf34.webm"
-  },
-  {
-    "directory": "mg34_master_gold",
-    "title": "MG34 Master: Gold",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_lm_mgolf34.webm"
-  },
-  {
-    "directory": "mg34_master_obsidian",
-    "title": "MG34 Master: Obsidian",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_lm_mgolf34.webm"
-  },
-  {
-    "directory": "mg34_master_platinum",
-    "title": "MG34 Master: Platinum",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_lm_mgolf34.webm"
-  },
-  {
-    "directory": "mk2_carbine_master_damascus",
-    "title": "MK2 Carbine Master: Damascus",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_sn_sbeta.webm"
-  },
-  {
-    "directory": "mk2_carbine_master_gold",
-    "title": "MK2 Carbine Master: Gold",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_sn_sbeta.webm"
-  },
-  {
-    "directory": "mk2_carbine_master_obsidian",
-    "title": "MK2 Carbine Master: Obsidian",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_sn_sbeta.webm"
-  },
-  {
-    "directory": "mk2_carbine_master_platinum",
-    "title": "MK2 Carbine Master: Platinum",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_sn_sbeta.webm"
-  },
-  {
-    "directory": "mp5_master_damascus",
-    "title": "MP5 Master: Damascus",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_sm_mpapa5.webm"
-  },
-  {
-    "directory": "mp5_master_gold",
-    "title": "MP5 Master: Gold",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_sm_mpapa5.webm"
-  },
-  {
-    "directory": "mp5_master_obsidian",
-    "title": "MP5 Master: Obsidian",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_sm_mpapa5.webm"
-  },
-  {
-    "directory": "mp5_master_platinum",
-    "title": "MP5 Master: Platinum",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_sm_mpapa5.webm"
-  },
-  {
-    "directory": "mp7_master_damascus",
-    "title": "MP7 Master: Damascus",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_sm_mpapa7.webm"
-  },
-  {
-    "directory": "mp7_master_gold",
-    "title": "MP7 Master: Gold",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_sm_mpapa7.webm"
-  },
-  {
-    "directory": "mp7_master_obsidian",
-    "title": "MP7 Master: Obsidian",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_sm_mpapa7.webm"
-  },
-  {
-    "directory": "mp7_master_platinum",
-    "title": "MP7 Master: Platinum",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_sm_mpapa7.webm"
-  },
-  {
     "directory": "mace_face",
     "title": "Mace Face",
     "type": "webm",
@@ -5862,16 +5904,16 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_437.webm"
   },
   {
-    "directory": "make_em_roll",
-    "title": "Make 'Em Roll",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_381.webm"
-  },
-  {
     "directory": "make_dove_not_war",
     "title": "Make Dove, Not War",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_001.webm"
+  },
+  {
+    "directory": "make_em_roll",
+    "title": "Make 'Em Roll",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_381.webm"
   },
   {
     "directory": "mammoth_undertaking",
@@ -6048,6 +6090,30 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9627_v4.webm"
   },
   {
+    "directory": "mg34_master_damascus",
+    "title": "MG34 Master: Damascus",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_lm_mgolf34.webm"
+  },
+  {
+    "directory": "mg34_master_gold",
+    "title": "MG34 Master: Gold",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_lm_mgolf34.webm"
+  },
+  {
+    "directory": "mg34_master_obsidian",
+    "title": "MG34 Master: Obsidian",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_lm_mgolf34.webm"
+  },
+  {
+    "directory": "mg34_master_platinum",
+    "title": "MG34 Master: Platinum",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_lm_mgolf34.webm"
+  },
+  {
     "directory": "midnight_train",
     "title": "Midnight Train",
     "type": "webm",
@@ -6090,10 +6156,22 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_823.webm"
   },
   {
-    "directory": "minnesota_rkkr_supporter",
-    "title": "Minnesota RØKKR Supporter",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1142.webm"
+    "directory": "minnesota_rkkr__2021",
+    "title": "Minnesota Røkkr  2021",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9777.png?8574153"
+  },
+  {
+    "directory": "minnesota_rkkr__2021_2",
+    "title": "Minnesota Røkkr  2021",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9777.png?8574153"
+  },
+  {
+    "directory": "minnesota_rkkr__2021_3",
+    "title": "Minnesota Røkkr  2021",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9777.png?8574153"
   },
   {
     "directory": "minnesota_rkkr_cdl_championship",
@@ -6106,6 +6184,12 @@
     "title": "Minnesota Røkkr Home Series",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1021.webm"
+  },
+  {
+    "directory": "minnesota_rkkr_supporter",
+    "title": "Minnesota RØKKR Supporter",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1142.webm"
   },
   {
     "directory": "minor_accident",
@@ -6148,6 +6232,30 @@
     "title": "Missiles Away",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_648.webm"
+  },
+  {
+    "directory": "mk2_carbine_master_damascus",
+    "title": "MK2 Carbine Master: Damascus",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_sn_sbeta.webm"
+  },
+  {
+    "directory": "mk2_carbine_master_gold",
+    "title": "MK2 Carbine Master: Gold",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_sn_sbeta.webm"
+  },
+  {
+    "directory": "mk2_carbine_master_obsidian",
+    "title": "MK2 Carbine Master: Obsidian",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_sn_sbeta.webm"
+  },
+  {
+    "directory": "mk2_carbine_master_platinum",
+    "title": "MK2 Carbine Master: Platinum",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_sn_sbeta.webm"
   },
   {
     "directory": "model_680_master_damascus",
@@ -6288,6 +6396,54 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_476.webm"
   },
   {
+    "directory": "mp5_master_damascus",
+    "title": "MP5 Master: Damascus",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_sm_mpapa5.webm"
+  },
+  {
+    "directory": "mp5_master_gold",
+    "title": "MP5 Master: Gold",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_sm_mpapa5.webm"
+  },
+  {
+    "directory": "mp5_master_obsidian",
+    "title": "MP5 Master: Obsidian",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_sm_mpapa5.webm"
+  },
+  {
+    "directory": "mp5_master_platinum",
+    "title": "MP5 Master: Platinum",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_sm_mpapa5.webm"
+  },
+  {
+    "directory": "mp7_master_damascus",
+    "title": "MP7 Master: Damascus",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_sm_mpapa7.webm"
+  },
+  {
+    "directory": "mp7_master_gold",
+    "title": "MP7 Master: Gold",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_sm_mpapa7.webm"
+  },
+  {
+    "directory": "mp7_master_obsidian",
+    "title": "MP7 Master: Obsidian",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_sm_mpapa7.webm"
+  },
+  {
+    "directory": "mp7_master_platinum",
+    "title": "MP7 Master: Platinum",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_sm_mpapa7.webm"
+  },
+  {
     "directory": "mulling_it_over",
     "title": "Mulling it Over",
     "type": "webm",
@@ -6306,10 +6462,10 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_124.webm"
   },
   {
-    "directory": "naughty_or_nice",
-    "title": "Naughty or Nice?",
+    "directory": "nature_is_metal",
+    "title": "Nature is Metal",
     "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1541.webm"
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1009.webm"
   },
   {
     "directory": "nature_provides",
@@ -6318,10 +6474,10 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_985.webm"
   },
   {
-    "directory": "nature_is_metal",
-    "title": "Nature is Metal",
+    "directory": "naughty_or_nice",
+    "title": "Naughty or Nice?",
     "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1009.webm"
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1541.webm"
   },
   {
     "directory": "neon_horizon",
@@ -6382,6 +6538,24 @@
     "title": "New York Subliners",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_824.webm"
+  },
+  {
+    "directory": "new_york_subliners_2021",
+    "title": "New York Subliners 2021",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9778.png?8574153"
+  },
+  {
+    "directory": "new_york_subliners_2021_2",
+    "title": "New York Subliners 2021",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9778.png?8574153"
+  },
+  {
+    "directory": "new_york_subliners_2021_3",
+    "title": "New York Subliners 2021",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9778.png?8574153"
   },
   {
     "directory": "new_york_subliners_cdl_championship",
@@ -6528,12 +6702,6 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_452.webm"
   },
   {
-    "directory": "nudisco",
-    "title": "Nu-Disco",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_637.webm"
-  },
-  {
     "directory": "nuclear_killer",
     "title": "Nuclear Killer",
     "type": "webm",
@@ -6546,6 +6714,12 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9250.webm"
   },
   {
+    "directory": "nudisco",
+    "title": "Nu-Disco",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_637.webm"
+  },
+  {
     "directory": "nuked_out",
     "title": "Nuked Out",
     "type": "webm",
@@ -6556,6 +6730,12 @@
     "title": "Numbskull",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_512.webm"
+  },
+  {
+    "directory": "obliteration",
+    "title": "Obliteration",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9717.png?8574153"
   },
   {
     "directory": "ode_to_the_brave",
@@ -6588,16 +6768,16 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_ar_asierra12.webm"
   },
   {
-    "directory": "off_the_rails",
-    "title": "Off The Rails",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_708.webm"
-  },
-  {
     "directory": "off_the_chain",
     "title": "Off the Chain",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1119.webm"
+  },
+  {
+    "directory": "off_the_rails",
+    "title": "Off The Rails",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_708.webm"
   },
   {
     "directory": "offroading",
@@ -6666,6 +6846,12 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_213.webm"
   },
   {
+    "directory": "on_the_menu",
+    "title": "On the Menu",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_902.webm"
+  },
+  {
     "directory": "on_the_move",
     "title": "On The Move",
     "type": "webm",
@@ -6676,12 +6862,6 @@
     "title": "On The Ready",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_710.webm"
-  },
-  {
-    "directory": "on_the_menu",
-    "title": "On the Menu",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_902.webm"
   },
   {
     "directory": "on_the_road",
@@ -6738,18 +6918,6 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_109.webm"
   },
   {
-    "directory": "optic_gaming_los_angeles",
-    "title": "OpTic Gaming Los Angeles",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_821.webm"
-  },
-  {
-    "directory": "optic_gaming_los_angeles_supporter",
-    "title": "OpTic Gaming Los Angeles Supporter",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1140.webm"
-  },
-  {
     "directory": "open_chute",
     "title": "Open Chute",
     "type": "webm",
@@ -6768,6 +6936,30 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_663.webm"
   },
   {
+    "directory": "optic_chicago_2021",
+    "title": "Optic Chicago 2021",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9779.png?8574153"
+  },
+  {
+    "directory": "optic_chicago_2021_2",
+    "title": "Optic Chicago 2021",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9779.png?8574153"
+  },
+  {
+    "directory": "optic_chicago_2021_3",
+    "title": "Optic Chicago 2021",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9779.png?8574153"
+  },
+  {
+    "directory": "optic_gaming_los_angeles",
+    "title": "OpTic Gaming Los Angeles",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_821.webm"
+  },
+  {
     "directory": "optic_gaming_los_angeles_cdl_championship",
     "title": "Optic Gaming Los Angeles CDL Championship",
     "type": "webm",
@@ -6778,6 +6970,12 @@
     "title": "Optic Gaming Los Angeles Home Series",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1019.webm"
+  },
+  {
+    "directory": "optic_gaming_los_angeles_supporter",
+    "title": "OpTic Gaming Los Angeles Supporter",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1140.webm"
   },
   {
     "directory": "origin_12_shotgun_master_damascus",
@@ -6900,78 +7098,6 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_sm_papa90.webm"
   },
   {
-    "directory": "pila_master_damascus",
-    "title": "PILA Master: Damascus",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_la_gromeo.webm"
-  },
-  {
-    "directory": "pila_master_gold",
-    "title": "PILA Master: Gold",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_la_gromeo.webm"
-  },
-  {
-    "directory": "pila_master_obsidian",
-    "title": "PILA Master: Obsidian",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_la_gromeo.webm"
-  },
-  {
-    "directory": "pila_master_platinum",
-    "title": "PILA Master: Platinum",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_la_gromeo.webm"
-  },
-  {
-    "directory": "pkm_master_damascus",
-    "title": "PKM Master: Damascus",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_lm_pkilo.webm"
-  },
-  {
-    "directory": "pkm_master_gold",
-    "title": "PKM Master: Gold",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_lm_pkilo.webm"
-  },
-  {
-    "directory": "pkm_master_obsidian",
-    "title": "PKM Master: Obsidian",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_lm_pkilo.webm"
-  },
-  {
-    "directory": "pkm_master_platinum",
-    "title": "PKM Master: Platinum",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_lm_pkilo.webm"
-  },
-  {
-    "directory": "pp19_bizon_master_damascus",
-    "title": "PP19 Bizon Master: Damascus",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_sm_beta.webm"
-  },
-  {
-    "directory": "pp19_bizon_master_gold",
-    "title": "PP19 Bizon Master: Gold",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_sm_beta.webm"
-  },
-  {
-    "directory": "pp19_bizon_master_obsidian",
-    "title": "PP19 Bizon Master: Obsidian",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_sm_beta.webm"
-  },
-  {
-    "directory": "pp19_bizon_master_platinum",
-    "title": "PP19 Bizon Master: Platinum",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_sm_beta.webm"
-  },
-  {
     "directory": "pack_leader",
     "title": "Pack Leader",
     "type": "webm",
@@ -7000,6 +7126,24 @@
     "title": "Paris Legion",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_825.webm"
+  },
+  {
+    "directory": "paris_legion_2021",
+    "title": "Paris Legion 2021",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9780.png?8574153"
+  },
+  {
+    "directory": "paris_legion_2021_2",
+    "title": "Paris Legion 2021",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9780.png?8574153"
+  },
+  {
+    "directory": "paris_legion_2021_3",
+    "title": "Paris Legion 2021",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9780.png?8574153"
   },
   {
     "directory": "paris_legion_cdl_championship",
@@ -7074,8 +7218,8 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9365.webm"
   },
   {
-    "directory": "payback_season_",
-    "title": "Payback Season ",
+    "directory": "payback_season",
+    "title": "Payback Season",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9170.webm"
   },
@@ -7146,6 +7290,30 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_962.webm"
   },
   {
+    "directory": "pila_master_damascus",
+    "title": "PILA Master: Damascus",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_la_gromeo.webm"
+  },
+  {
+    "directory": "pila_master_gold",
+    "title": "PILA Master: Gold",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_la_gromeo.webm"
+  },
+  {
+    "directory": "pila_master_obsidian",
+    "title": "PILA Master: Obsidian",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_la_gromeo.webm"
+  },
+  {
+    "directory": "pila_master_platinum",
+    "title": "PILA Master: Platinum",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_la_gromeo.webm"
+  },
+  {
     "directory": "pinstripe_suit",
     "title": "Pinstripe Suit",
     "type": "webm",
@@ -7182,22 +7350,46 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9341.webm"
   },
   {
+    "directory": "pkm_master_damascus",
+    "title": "PKM Master: Damascus",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_lm_pkilo.webm"
+  },
+  {
+    "directory": "pkm_master_gold",
+    "title": "PKM Master: Gold",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_lm_pkilo.webm"
+  },
+  {
+    "directory": "pkm_master_obsidian",
+    "title": "PKM Master: Obsidian",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_lm_pkilo.webm"
+  },
+  {
+    "directory": "pkm_master_platinum",
+    "title": "PKM Master: Platinum",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_lm_pkilo.webm"
+  },
+  {
     "directory": "plotting_the_future",
     "title": "Plotting the Future",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_447.webm"
   },
   {
-    "directory": "point_taken",
-    "title": "Point Taken",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_251.webm"
-  },
-  {
     "directory": "point_and_shoot",
     "title": "Point and Shoot",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9293.webm"
+  },
+  {
+    "directory": "point_taken",
+    "title": "Point Taken",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_251.webm"
   },
   {
     "directory": "poland",
@@ -7224,6 +7416,30 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_282.webm"
   },
   {
+    "directory": "pp19_bizon_master_damascus",
+    "title": "PP19 Bizon Master: Damascus",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_sm_beta.webm"
+  },
+  {
+    "directory": "pp19_bizon_master_gold",
+    "title": "PP19 Bizon Master: Gold",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_sm_beta.webm"
+  },
+  {
+    "directory": "pp19_bizon_master_obsidian",
+    "title": "PP19 Bizon Master: Obsidian",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_sm_beta.webm"
+  },
+  {
+    "directory": "pp19_bizon_master_platinum",
+    "title": "PP19 Bizon Master: Platinum",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_sm_beta.webm"
+  },
+  {
     "directory": "precision_master",
     "title": "Precision Master",
     "type": "webm",
@@ -7234,6 +7450,12 @@
     "title": "Press F",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_214.webm"
+  },
+  {
+    "directory": "press_f_2",
+    "title": "Press F",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9787.png?8574153"
   },
   {
     "directory": "press_record",
@@ -7404,54 +7626,6 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_sh_dpapa12.webm"
   },
   {
-    "directory": "ram7_master_damascus",
-    "title": "RAM-7 Master: Damascus",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_ar_tango21.webm"
-  },
-  {
-    "directory": "ram7_master_gold",
-    "title": "RAM-7 Master: Gold",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_ar_tango21.webm"
-  },
-  {
-    "directory": "ram7_master_obsidian",
-    "title": "RAM-7 Master: Obsidian",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_ar_tango21.webm"
-  },
-  {
-    "directory": "ram7_master_platinum",
-    "title": "RAM-7 Master: Platinum",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_ar_tango21.webm"
-  },
-  {
-    "directory": "rpg7_master_damascus",
-    "title": "RPG-7 Master: Damascus",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_la_rpapa7.webm"
-  },
-  {
-    "directory": "rpg7_master_gold",
-    "title": "RPG-7 Master: Gold",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_la_rpapa7.webm"
-  },
-  {
-    "directory": "rpg7_master_obsidian",
-    "title": "RPG-7 Master: Obsidian",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_la_rpapa7.webm"
-  },
-  {
-    "directory": "rpg7_master_platinum",
-    "title": "RPG-7 Master: Platinum",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_la_rpapa7.webm"
-  },
-  {
     "directory": "radio_free_country",
     "title": "Radio Free Country",
     "type": "webm",
@@ -7480,6 +7654,30 @@
     "title": "Rainin' Lead",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_249.webm"
+  },
+  {
+    "directory": "ram7_master_damascus",
+    "title": "RAM-7 Master: Damascus",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_ar_tango21.webm"
+  },
+  {
+    "directory": "ram7_master_gold",
+    "title": "RAM-7 Master: Gold",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_ar_tango21.webm"
+  },
+  {
+    "directory": "ram7_master_obsidian",
+    "title": "RAM-7 Master: Obsidian",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_ar_tango21.webm"
+  },
+  {
+    "directory": "ram7_master_platinum",
+    "title": "RAM-7 Master: Platinum",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_ar_tango21.webm"
   },
   {
     "directory": "range_finder",
@@ -7818,6 +8016,30 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1098.webm"
   },
   {
+    "directory": "rpg7_master_damascus",
+    "title": "RPG-7 Master: Damascus",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_la_rpapa7.webm"
+  },
+  {
+    "directory": "rpg7_master_gold",
+    "title": "RPG-7 Master: Gold",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_la_rpapa7.webm"
+  },
+  {
+    "directory": "rpg7_master_obsidian",
+    "title": "RPG-7 Master: Obsidian",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_la_rpapa7.webm"
+  },
+  {
+    "directory": "rpg7_master_platinum",
+    "title": "RPG-7 Master: Platinum",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_la_rpapa7.webm"
+  },
+  {
     "directory": "rugged",
     "title": "Rugged",
     "type": "webm",
@@ -7926,114 +8148,6 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_lm_lima86.webm"
   },
   {
-    "directory": "sas",
-    "title": "SAS",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_377.webm"
-  },
-  {
-    "directory": "sas_graffiti",
-    "title": "SAS Graffiti",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_761.webm"
-  },
-  {
-    "directory": "sas_woodland",
-    "title": "SAS Woodland",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_407.webm"
-  },
-  {
-    "directory": "sere_kit_marksman_loadout",
-    "title": "SERE KIT: Marksman Loadout",
-    "type": "png",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_1132.png"
-  },
-  {
-    "directory": "sere_kit_cqc_loadout",
-    "title": "SERE Kit: CQC Loadout",
-    "type": "png",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_1134.png"
-  },
-  {
-    "directory": "sere_kit_midrange_loadout",
-    "title": "SERE Kit: Mid-Range Loadout",
-    "type": "png",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_1133.png"
-  },
-  {
-    "directory": "sere_kit_plunder_player_loadout",
-    "title": "SERE Kit: Plunder Player Loadout",
-    "type": "png",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_1162.png"
-  },
-  {
-    "directory": "sere_kit_toptier_loadout",
-    "title": "SERE Kit: Top-Tier Loadout",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1518.webm"
-  },
-  {
-    "directory": "sks_master_damascus",
-    "title": "SKS Master: Damascus",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_sn_sksierra.webm"
-  },
-  {
-    "directory": "sks_master_gold",
-    "title": "SKS Master: Gold",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_sn_sksierra.webm"
-  },
-  {
-    "directory": "sks_master_obsidian",
-    "title": "SKS Master: Obsidian",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_sn_sksierra.webm"
-  },
-  {
-    "directory": "sks_master_platinum",
-    "title": "SKS Master: Platinum",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_sn_sksierra.webm"
-  },
-  {
-    "directory": "smg_diamond",
-    "title": "SMG Diamond",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9487.webm"
-  },
-  {
-    "directory": "smg_diamond_2",
-    "title": "SMG Diamond",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9488.webm"
-  },
-  {
-    "directory": "spr_208_master_damascus",
-    "title": "SP-R 208 Master: Damascus",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_sn_romeo700.webm"
-  },
-  {
-    "directory": "spr_208_master_gold",
-    "title": "SP-R 208 Master: Gold",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_sn_romeo700.webm"
-  },
-  {
-    "directory": "spr_208_master_obsidian",
-    "title": "SP-R 208 Master: Obsidian",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_sn_romeo700.webm"
-  },
-  {
-    "directory": "spr_208_master_platinum",
-    "title": "SP-R 208 Master: Platinum",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_sn_romeo700.webm"
-  },
-  {
     "directory": "sabertoothed",
     "title": "Saber-Toothed",
     "type": "webm",
@@ -8068,6 +8182,24 @@
     "title": "Salutations",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_087.webm"
+  },
+  {
+    "directory": "sas",
+    "title": "SAS",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_377.webm"
+  },
+  {
+    "directory": "sas_graffiti",
+    "title": "SAS Graffiti",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_761.webm"
+  },
+  {
+    "directory": "sas_woodland",
+    "title": "SAS Woodland",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_407.webm"
   },
   {
     "directory": "savannah",
@@ -8172,6 +8304,24 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_826.webm"
   },
   {
+    "directory": "seattle_surge_2021",
+    "title": "Seattle Surge 2021",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9781.png?8574153"
+  },
+  {
+    "directory": "seattle_surge_2021_2",
+    "title": "Seattle Surge 2021",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9781.png?8574153"
+  },
+  {
+    "directory": "seattle_surge_2021_3",
+    "title": "Seattle Surge 2021",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9781.png?8574153"
+  },
+  {
     "directory": "seattle_surge_cdl_championship",
     "title": "Seattle Surge CDL Championship",
     "type": "webm",
@@ -8244,6 +8394,36 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_484.webm"
   },
   {
+    "directory": "sere_kit_cqc_loadout",
+    "title": "SERE Kit: CQC Loadout",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_1134.png"
+  },
+  {
+    "directory": "sere_kit_marksman_loadout",
+    "title": "SERE KIT: Marksman Loadout",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_1132.png"
+  },
+  {
+    "directory": "sere_kit_midrange_loadout",
+    "title": "SERE Kit: Mid-Range Loadout",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_1133.png"
+  },
+  {
+    "directory": "sere_kit_plunder_player_loadout",
+    "title": "SERE Kit: Plunder Player Loadout",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_1162.png"
+  },
+  {
+    "directory": "sere_kit_toptier_loadout",
+    "title": "SERE Kit: Top-Tier Loadout",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1518.webm"
+  },
+  {
     "directory": "serpent_sacrifice",
     "title": "Serpent Sacrifice",
     "type": "webm",
@@ -8260,6 +8440,12 @@
     "title": "Shadow Dweller",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1242.webm"
+  },
+  {
+    "directory": "shadow_of_death",
+    "title": "Shadow of Death",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_069.webm"
   },
   {
     "directory": "shadow_ops_domino",
@@ -8332,12 +8518,6 @@
     "title": "Shadow Ops: Yegor",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1254.webm"
-  },
-  {
-    "directory": "shadow_of_death",
-    "title": "Shadow of Death",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_069.webm"
   },
   {
     "directory": "shadowy_figures",
@@ -8526,6 +8706,30 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_168.webm"
   },
   {
+    "directory": "sks_master_damascus",
+    "title": "SKS Master: Damascus",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_sn_sksierra.webm"
+  },
+  {
+    "directory": "sks_master_gold",
+    "title": "SKS Master: Gold",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_sn_sksierra.webm"
+  },
+  {
+    "directory": "sks_master_obsidian",
+    "title": "SKS Master: Obsidian",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_sn_sksierra.webm"
+  },
+  {
+    "directory": "sks_master_platinum",
+    "title": "SKS Master: Platinum",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_sn_sksierra.webm"
+  },
+  {
     "directory": "skull_ray",
     "title": "Skull Ray",
     "type": "webm",
@@ -8586,16 +8790,28 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9182.webm"
   },
   {
+    "directory": "smell_of_death",
+    "title": "Smell of Death",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_720.webm"
+  },
+  {
     "directory": "smell_their_fear",
     "title": "Smell Their Fear",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1104.webm"
   },
   {
-    "directory": "smell_of_death",
-    "title": "Smell of Death",
+    "directory": "smg_diamond",
+    "title": "SMG Diamond",
     "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_720.webm"
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9487.webm"
+  },
+  {
+    "directory": "smg_diamond_2",
+    "title": "SMG Diamond",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9488.webm"
   },
   {
     "directory": "smite_them",
@@ -8608,6 +8824,12 @@
     "title": "Smoke",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_413.webm"
+  },
+  {
+    "directory": "smoke_and_mirrors",
+    "title": "Smoke and Mirrors",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1323.webm"
   },
   {
     "directory": "smoke_shroud",
@@ -8628,12 +8850,6 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_032.webm"
   },
   {
-    "directory": "smoke_and_mirrors",
-    "title": "Smoke and Mirrors",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1323.webm"
-  },
-  {
     "directory": "smoked_em",
     "title": "Smoked 'Em",
     "type": "webm",
@@ -8650,6 +8866,12 @@
     "title": "Smooth Operator",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9474_v5.webm"
+  },
+  {
+    "directory": "snaked",
+    "title": "Snaked",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9786.png?8574153"
   },
   {
     "directory": "snapped_up",
@@ -8824,6 +9046,30 @@
     "title": "Spotted",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_144.webm"
+  },
+  {
+    "directory": "spr_208_master_damascus",
+    "title": "SP-R 208 Master: Damascus",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_sn_romeo700.webm"
+  },
+  {
+    "directory": "spr_208_master_gold",
+    "title": "SP-R 208 Master: Gold",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_sn_romeo700.webm"
+  },
+  {
+    "directory": "spr_208_master_obsidian",
+    "title": "SP-R 208 Master: Obsidian",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_sn_romeo700.webm"
+  },
+  {
+    "directory": "spr_208_master_platinum",
+    "title": "SP-R 208 Master: Platinum",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_sn_romeo700.webm"
   },
   {
     "directory": "spread_the_love",
@@ -9138,8 +9384,8 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_219.webm"
   },
   {
-    "directory": "stunner_shades_",
-    "title": "Stunner Shades ",
+    "directory": "stunner_shades",
+    "title": "Stunner Shades",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9166.webm"
   },
@@ -9256,6 +9502,12 @@
     "title": "Swashbuckler",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1090.webm"
+  },
+  {
+    "directory": "sweaty_hours",
+    "title": "Sweaty Hours",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9784.png?8574153"
   },
   {
     "directory": "sweden",
@@ -9726,16 +9978,16 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_990.webm"
   },
   {
-    "directory": "through_the_valley",
-    "title": "Through The Valley",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_731.webm"
-  },
-  {
     "directory": "through_the_prism",
     "title": "Through the Prism",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_642.webm"
+  },
+  {
+    "directory": "through_the_valley",
+    "title": "Through The Valley",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_731.webm"
   },
   {
     "directory": "thunder_globe",
@@ -9786,12 +10038,6 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_509.webm"
   },
   {
-    "directory": "to_your_doorstep",
-    "title": "To Your Doorstep",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_331.webm"
-  },
-  {
     "directory": "to_the_light",
     "title": "To the Light",
     "type": "webm",
@@ -9802,6 +10048,12 @@
     "title": "To the Point",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1177.webm"
+  },
+  {
+    "directory": "to_your_doorstep",
+    "title": "To Your Doorstep",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_331.webm"
   },
   {
     "directory": "tongue_tied",
@@ -9850,6 +10102,24 @@
     "title": "Toronto Ultra",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_827.webm"
+  },
+  {
+    "directory": "toronto_ultra_2021",
+    "title": "Toronto Ultra 2021",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9782.png?8574153"
+  },
+  {
+    "directory": "toronto_ultra_2021_2",
+    "title": "Toronto Ultra 2021",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9782.png?8574153"
+  },
+  {
+    "directory": "toronto_ultra_2021_3",
+    "title": "Toronto Ultra 2021",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9782.png?8574153"
   },
   {
     "directory": "toronto_ultra_cdl_championship",
@@ -10122,28 +10392,22 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_460.webm"
   },
   {
-    "directory": "two_time",
-    "title": "Two Time",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_461.webm"
-  },
-  {
     "directory": "two_for_one",
     "title": "Two for One",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9636_v6.webm"
   },
   {
+    "directory": "two_time",
+    "title": "Two Time",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_461.webm"
+  },
+  {
     "directory": "uav",
     "title": "UAV",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_489.webm"
-  },
-  {
-    "directory": "usa",
-    "title": "USA",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_277.webm"
   },
   {
     "directory": "ultra_killer",
@@ -10248,16 +10512,16 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1236.webm"
   },
   {
-    "directory": "up_on_infrared",
-    "title": "Up On Infrared",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_573.webm"
-  },
-  {
     "directory": "up_in_arms",
     "title": "Up in Arms",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_089.webm"
+  },
+  {
+    "directory": "up_on_infrared",
+    "title": "Up On Infrared",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_573.webm"
   },
   {
     "directory": "uplinked",
@@ -10276,6 +10540,12 @@
     "title": "Urzikstan",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_524.webm"
+  },
+  {
+    "directory": "usa",
+    "title": "USA",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_277.webm"
   },
   {
     "directory": "use_soap",
@@ -10306,36 +10576,6 @@
     "title": "Uzi Master: Platinum",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_sm_uzulu.webm"
-  },
-  {
-    "directory": "vlk_rogue_master_damascus",
-    "title": "VLK Rogue Master: Damascus",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_sh_mike26.webm"
-  },
-  {
-    "directory": "vlk_rogue_master_gold",
-    "title": "VLK Rogue Master: Gold",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_sh_mike26.webm"
-  },
-  {
-    "directory": "vlk_rogue_master_obsidian",
-    "title": "VLK Rogue Master: Obsidian",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_sh_mike26.webm"
-  },
-  {
-    "directory": "vlk_rogue_master_platinum",
-    "title": "VLK Rogue Master: Platinum",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_sh_mike26.webm"
-  },
-  {
-    "directory": "vtol_strike",
-    "title": "VTOL Strike",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_483.webm"
   },
   {
     "directory": "valorous",
@@ -10422,10 +10662,40 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9358.webm"
   },
   {
+    "directory": "vlk_rogue_master_damascus",
+    "title": "VLK Rogue Master: Damascus",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_damascus_sh_mike26.webm"
+  },
+  {
+    "directory": "vlk_rogue_master_gold",
+    "title": "VLK Rogue Master: Gold",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_gold_sh_mike26.webm"
+  },
+  {
+    "directory": "vlk_rogue_master_obsidian",
+    "title": "VLK Rogue Master: Obsidian",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_obsidian_sh_mike26.webm"
+  },
+  {
+    "directory": "vlk_rogue_master_platinum",
+    "title": "VLK Rogue Master: Platinum",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_mc_platinum_sh_mike26.webm"
+  },
+  {
     "directory": "volk_you",
     "title": "Volk You",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9473_v6.webm"
+  },
+  {
+    "directory": "vtol_strike",
+    "title": "VTOL Strike",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_483.webm"
   },
   {
     "directory": "wales",
@@ -10446,16 +10716,16 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_228.webm"
   },
   {
-    "directory": "war_eagle",
-    "title": "War Eagle",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1161.webm"
-  },
-  {
     "directory": "war_and_peace",
     "title": "War and Peace",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_005.webm"
+  },
+  {
+    "directory": "war_eagle",
+    "title": "War Eagle",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1161.webm"
   },
   {
     "directory": "warcom",
@@ -10548,12 +10818,6 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_789.webm"
   },
   {
-    "directory": "were_good",
-    "title": "We're Good",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_013.webm"
-  },
-  {
     "directory": "weapon_grandmaster",
     "title": "Weapon Grandmaster",
     "type": "webm",
@@ -10566,22 +10830,28 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9606.webm"
   },
   {
-    "directory": "welcome_to_warzone",
-    "title": "Welcome to Warzone",
-    "type": "webm",
-    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_946.webm"
-  },
-  {
     "directory": "welcome_to_the_jungle",
     "title": "Welcome to the Jungle",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_063.webm"
   },
   {
+    "directory": "welcome_to_warzone",
+    "title": "Welcome to Warzone",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_946.webm"
+  },
+  {
     "directory": "well_rounded",
     "title": "Well Rounded",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_1173.webm"
+  },
+  {
+    "directory": "were_good",
+    "title": "We're Good",
+    "type": "webm",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_013.webm"
   },
   {
     "directory": "wetworks",
@@ -10662,8 +10932,8 @@
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9349.webm"
   },
   {
-    "directory": "wired_access_point_",
-    "title": "Wired Access Point ",
+    "directory": "wired_access_point",
+    "title": "Wired Access Point",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_t9320.webm"
   },
@@ -10726,6 +10996,12 @@
     "title": "World Mover",
     "type": "webm",
     "url": "https://titles.trackercdn.com/modern-warfare/db/videos/ui_playercard_610.webm"
+  },
+  {
+    "directory": "world_star",
+    "title": "World Star",
+    "type": "png",
+    "url": "https://titles.trackercdn.com/modern-warfare/db/images/ui_playercard_t9785.png?8574153"
   },
   {
     "directory": "wrong_angel",

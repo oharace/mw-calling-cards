@@ -4,262 +4,124 @@ require 'open-uri'
 
 class Extractor
   SITE = 'https://cod.tracker.gg/warzone/db/loot?c=5&page='
+  PAGES = 93
 
   class << self
-    def extract_videos
-      video_source_file = File.new('calling_card_titles_and_sources.txt', 'w')
-
-      (1..90).each do |page_number|
-        puts "Page number: #{page_number}"
-
-        doc = Nokogiri::HTML(open("#{SITE}#{page_number}"))
-
-        rows = doc.css('tr')
-
-        rows.each do |row|
-          video = row.css('video source')
-
-          next if video.empty?
-
-          title = row.css('.item-details a').text
-
-          dir = "calling_cards/#{title}"
-          dir_counter = 1
-
-          while File.directory?(dir)
-            dir_counter += 1
-            dir = "calling_cards/#{title} #{dir_counter}"
-          end
-
-          system 'mkdir', '-p', dir
-
-          if dir_counter > 1
-            video_source_file.puts "#{title} #{dir_counter}@@@#{video.first['src']}"
-          else
-            video_source_file.puts "#{title}@@@#{video.first['src']}"
-          end
-        end
-      end
-
-      video_source_file.close
-    end
-
-    def extract_images
-      video_source_file = File.open('calling_card_titles_and_sources.txt', 'a')
-
-      (1..90).each do |page_number|
-        puts "Page number: #{page_number}"
-
-        doc = Nokogiri::HTML(open("#{SITE}#{page_number}"))
-
-        rows = doc.css('tr')
-
-        rows.each do |row|
-          image = row.css('img.item-icon__image')
-
-          next if image.empty?
-
-          title = row.css('.item-details a').text
-
-          dir = "calling_cards/#{title}"
-          dir_counter = 1
-
-          while File.directory?(dir)
-            dir_counter += 1
-            dir = "calling_cards/#{title} #{dir_counter}"
-          end
-
-          system 'mkdir', '-p', dir
-
-          if dir_counter > 1
-            video_source_file.write "#{title} #{dir_counter}@@@#{image.first['src']}"
-          else
-            video_source_file.write "#{title}@@@#{image.first['src']}"
-          end
-        end
-      end
-
-      video_source_file.close
-    end
-
-    def find_missing
-      (1..90).each do |page_number|
-        puts "Page number: #{page_number}"
-
-        doc = Nokogiri::HTML(open("#{SITE}#{page_number}"))
-
-        rows = doc.css('.content tbody tr')
-
-        found = false
-
-        rows.each do |row|
-          video = row.css('video source')
-          image = row.css('img.item-icon__image')
-
-          if video.empty? && image.empty?
-            puts "FOUND"
-
-            puts row
-
-            found = true
-          end
-
-          break if found
-        end
-      end
-    end
-
-    def find_missing_directories
-      missing = []
-      lines = 0
-
-      File.open('calling_card_titles_and_sources.txt').each do |line|
-        lines += 1
-        split = line.split('@@@')
-
-        missing << split[0] unless File.directory?("calling_cards/#{split[0]}")  
-      end
-
-      puts "lines: #{lines}"
-      puts missing.count
-      puts missing
-    end
-
-    def download
-      puts 'Downloading videos'
-      puts
-
-      calling_cards = []
-
-      File.open('calling_card_titles_and_sources.txt').each do |line|
-        split = line.split('@@@')
-
-        calling_cards << {
-          title: split[0],
-          url: split[1]
-        }
-      end
-
-      # Download the videos
-      counter = 1
-      calling_cards.each do |calling_card|
-        puts "Downloading #{counter}/#{calling_cards.count}"
-
-        open("calling_cards/#{calling_card[:title]}/#{calling_card[:title].downcase.gsub(' ', '-')}.webm", 'wb') do |file|
-          file << open(calling_card[:url]).read
-        end
-
-        counter += 1
-      end
-    end
-
-    def fix_image_downloads
-      calling_cards = []
-
-      File.open('calling_card_titles_and_sources.txt').each do |line|
-        split = line.split('@@@')
-
-        next if split[1].include?('.webm')
-
-        calling_cards << {
-          title: split[0],
-          url: split[1]
-        }
-      end
-
-      calling_cards.each do |calling_card|
-        File.delete("calling_cards/#{calling_card[:title]}/#{calling_card[:title].downcase.gsub(' ', '-')}.webm")
-
-        open("calling_cards/#{calling_card[:title]}/#{calling_card[:title].downcase.gsub(' ', '-')}.png", 'wb') do |file|
-          file << open(calling_card[:url]).read
-        end
-      end
-    end
-
-    def extract_images_from_webm
-      titles = []
-      counter = 1
-
-      File.open('calling_card_titles_and_sources.txt').each do |line|
-        split = line.split('@@@')
-
-        next if split[1].include?('.png')
-
-        titles << split[0]
-      end
-
-      titles.each do |title|
-        puts "Extracting #{counter}/#{titles.count}"
-
-        system 'mkdir', '-p', "calling_cards/#{title}/extracted_images"
-        system "ffmpeg", '-i', "calling_cards/#{title}/#{title.downcase.gsub(' ', '-')}.webm", "calling_cards/#{title}/extracted_images/%03d.png"
-
-        counter += 1
-      end
-    end
-
-    def create_json_file
-      calling_cards = []
-
-      File.open('calling_card_titles_and_sources.txt').each do |line|
-        split = line.split('@@@')
-
-        h = {}
-
-        h[:directory] = split[0].downcase.gsub(' ', '_').gsub(/\W/, '')
-
-        h[:title] = split[0]
-
-        if split[1].include?('.png')
-          h[:type] = 'png'
-        else
-          h[:type] = 'webm'
-        end
-        
-        h[:url] = split[1]
-
-        calling_cards << h
-      end
-
-      calling_cards.sort_by! { |hsh| hsh[:title] }
-
-      json = calling_cards.to_json
-
-      File.open('calling_cards.json', 'w') { |file| file.write(json) }
-    end
-
-    def fix_directory_names
-      Dir.chdir('calling_cards')
-      dirs = Dir.glob('*').select { |f| File.directory? f }
-
-      dirs.each do |dir|
-        new_name = dir.downcase.gsub(' ', '_').gsub(/\W/, '')
-
-        system 'mv', "#{dir}/", "#{new_name}/"
-      end
-    end
-
-    def compare_json_to_dirs
-      expected_dirs = []
-
+    def find_new_calling_cards
       file = File.read('calling_cards.json')
       json = JSON.parse(file)
 
-      expected_dirs = json.map { |h| h['directory'] }.sort
+      existing_card_directories = json.map { |h| h['directory'] }
+      new_card_directories = []
+      new_cards = []
 
-      Dir.chdir('calling_cards')
-      actual_dirs = Dir.glob('*').select { |f| File.directory? f }.sort
+      (1..PAGES).each do |page_number|
+        puts "Page number: #{page_number}"
 
-      expected_dirs.each_with_index do |exdir, i|
-        if exdir != actual_dirs[i]
-          puts "Difference! #{exdir}, #{actual_dirs[i]}"
+        doc = Nokogiri::HTML(open("#{SITE}#{page_number}"))
+
+        rows = doc.css('.content table tbody tr')
+
+        rows.each do |row|
+          video = row.css('video source')
+          image = row.css('img.item-icon__image')
+          title = row.css('.item-details a').text.strip
+          type = video.empty? ? 'png' : 'webm'
+
+          formatted_title_for_directory = title.gsub(' ', '_').gsub(/\W/, '').downcase
+          directory = formatted_title_for_directory
+
+          dir_counter = 1
+
+          # while existing_card_directories.include?(directory)
+          #   dir_counter += 1
+          #   directory = "#{formatted_title_for_directory}_#{dir_counter}"
+          # end
+
+          while new_card_directories.include?(directory)
+            dir_counter += 1
+            directory = "#{formatted_title_for_directory}_#{dir_counter}"
+          end
+
+          new_card_directories << directory
+
+          new_cards << {
+            directory: directory,
+            title: title,
+            type: type,
+            url: video.empty? ? image.first['src'] : video.first['src']
+          }
         end
       end
 
-      puts "count: #{expected_dirs.count}"
-      puts "count: #{actual_dirs.count}"
+      diff = new_card_directories - existing_card_directories
+      new_cards.select! { |c| diff.include?(c[:directory]) }
+
+      puts "------------ FINISHED ------------"
+      puts "Number of new cards: #{new_cards.count}"
+      puts "New Cards:"
+      new_cards.each { |nc| puts nc[:directory] }
+
+      new_cards
+    end
+
+    def download_media
+      file = File.read('calling_cards.json')
+      existing_cards = JSON.parse(file)
+      new_cards = find_new_calling_cards
+
+      counter = 1
+      new_cards.each do |new_card|
+        puts "Downloading #{counter}/#{new_cards.count}"
+
+        path = "../public/calling_cards/#{new_card[:directory]}"
+
+        system 'mkdir', '-p', path
+
+        # Download the media
+        open("#{path}/#{new_card[:directory].gsub('_', '-')}.#{new_card[:type]}", 'wb') do |file|
+          file << open(new_card[:url]).read
+        end
+
+        existing_cards << new_card
+
+        counter += 1
+      end
+
+      # Update JSON file
+      existing_cards.sort_by! { |h| (h[:directory] || h['directory']) }
+      File.open('calling_cards.json', 'w') { |file| file.write(existing_cards.to_json) }
+
+      puts "------------ FINISHED DOWNLOADING ------------"
+
+      puts new_cards.count
+    end
+
+    def extract_images_from_webm
+      file = File.read('calling_cards.json')
+      cards = JSON.parse(file)
+
+      directories = cards.select { |c| c['type'] == 'webm' }.map { |c| c['directory'] }
+      counter = 1
+      extracted = 0
+
+      directories.each do |directory|
+        puts "Extracting #{counter}/#{directories.count}"
+        counter += 1
+
+        next if File.directory?("../public/calling_cards/#{directory}/extracted_images")
+
+        system 'mkdir', '-p', "../public/calling_cards/#{directory}/extracted_images"
+        system 'mkdir', '-p', "../public/calling_cards/#{directory}/combined_images"
+        system "ffmpeg", '-i', "../public/calling_cards/#{directory}/#{directory.gsub('_', '-')}.webm", "../public/calling_cards/#{directory}/extracted_images/%03d.png"
+
+        extracted += 1
+      end
+
+      puts "------------ FINISHED EXTRACTING ------------"
+      puts "Extracted #{extracted} directories"
     end
   end
 end
 
-Extractor.compare_json_to_dirs
+Extractor.download_media
